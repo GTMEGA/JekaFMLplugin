@@ -1,4 +1,4 @@
-package com.github.gtnh2.JekaFMLplugin;
+package com.github.gtmega.JekaFMLplugin;
 
 import dev.jeka.core.tool.JkClass;
 import dev.jeka.core.tool.JkDoc;
