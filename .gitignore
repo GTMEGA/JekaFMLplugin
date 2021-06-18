@@ -1,0 +1,16 @@
+# jeka
+/bin/
+/build/output
+/.settings/
+
+# eclipse
+.settings
+.metadata
+.classpath
+.project
+bin
+
+# intellij
+out
+*.idea
+*.iml
